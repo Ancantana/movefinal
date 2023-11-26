@@ -3,7 +3,7 @@ let messages = [
   "Hello",
   "My name is AVI. I am a digital assistant created by An.",
   "If it's alright with you, I'd like to ask you to do something for me.",
-  "But first, let me explain why",
+  "First, let me explain why.",
   "You will be given a number based on the area and duration you hold your mouse down for.",
   "Okay now, hold your mouse down for me. You are free to let go whenever you'd like.",
   "Thank you. You have been assigned a number ()"
